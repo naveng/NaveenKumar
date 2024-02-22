@@ -35,8 +35,10 @@
 <summary><b>J-type instructions:
 </b></summary>
 <br>
+![WhatsApp Image 2024-02-22 at 3 53 11 PM](https://github.com/naveng/NaveenKumar/assets/154491422/f1900a9c-e38b-4880-bbaf-15c56c31efad)
 <p align="justify">Used for unconditional jump operations, which transfer control to a different instruction unconditionally. They include one register operand and a 20-bit immediate value for the jump target address. Eg:- J (jump)</p>
-</details>
+</details>![WhatsApp Image 2024-02-22 at 3 53 11 PM](https://github.com/naveng/NaveenKumar/assets/154491422/f1900a9c-e38b-4880-bbaf-15c56c31efad)
+
 
 # Base Instructions Format
 
@@ -45,7 +47,7 @@
 <details>
 <summary><b>Instruction code format </b></summary>
 	<br>
-![WhatsApp Image 2024-02-22 at 12 03 23_6fcd04a3](https://github.com/Abdulbitm/Abdul/assets/160620896/46e11a1c-3476-40e4-971f-55791772b35b)
+
 
 </details>
 

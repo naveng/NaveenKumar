@@ -56,8 +56,10 @@ $ gtkwave hello.vcd
 
 # 4.3 The output waveform
 The output waveform showing the instructions performed in a 5-stage pipelined architecture.       
+![image](https://github.com/naveng/NaveenKumar/assets/154491422/9876ab33-aec3-4874-a85b-310f59601ba0)
+![image](https://github.com/naveng/NaveenKumar/assets/154491422/4b8464cd-41bd-491a-994e-61b68513b8e7)
 
-Instruction 1:add r6,r2,r1
+
 
 
 

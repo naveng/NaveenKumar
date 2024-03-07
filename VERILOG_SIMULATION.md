@@ -55,7 +55,7 @@ $ gtkwave hello.vcd
 The output waveform showing the instructions performed in a 5-stage pipelined architecture.       
 ![image](https://github.com/naveng/NaveenKumar/assets/154491422/9876ab33-aec3-4874-a85b-310f59601ba0)
 ![image](https://github.com/naveng/NaveenKumar/assets/154491422/4b8464cd-41bd-491a-994e-61b68513b8e7)
-![image](https://github.com/naveng/NaveenKumar/assets/154491422/34386a4b-8676-4e9a-ac50-52612386ee74)
+
 
 
 

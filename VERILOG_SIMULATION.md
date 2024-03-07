@@ -77,8 +77,7 @@ After branching, performing Instruction 11:add r14,r2,r2
 <img width="1287" alt="309719297-56b50ce0-60aa-41fe-8f53-0b4583b39665" src="https://github.com/naveng/NaveenKumar/assets/154491422/af8aaaa3-2142-4b41-9cd8-fa979092eadf">
 ![image](https://github.com/naveng/NaveenKumar/assets/154491422/9876ab33-aec3-4874-a85b-310f59601ba0)
 ![image](https://github.com/naveng/NaveenKumar/assets/154491422/4b8464cd-41bd-491a-994e-61b68513b8e7)
-![309720244-669887ed-9ab6-48f1-8cf8-83e5f3eec2bd](https://github.com/naveng/NaveenKumar/assets/154491422/f1acaea3-beb0-4df1-83f3-9af3a5728215)
-
+![310205801-bf77c786-2fdf-4ff6-92bc-c37a31d05e4e](https://github.com/naveng/NaveenKumar/assets/154491422/1d225f9d-9cfd-4d6d-a8d9-7e7c7f5fd1bf)
 
 
 
